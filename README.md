@@ -23,10 +23,10 @@
 
 ## 转换方法
 如果你是使用uv管理环境：
->uv run Dataset4Lerobot/rlds2lerobot/xarm6_to_lerobot_v3.py --input_dir "your input dir" --ouyput_dir "your output dir"
+>uv run Dataset4Lerobot/rlds2lerobot/xarm6_to_lerobot_v3.py --input_dir "your input dir" --output_dir "your output dir"
 
 如果你是直接用python
->python Dataset4Lerobot/rlds2lerobot/xarm6_to_lerobot_v3.py --input_dir "your input dir" --ouyput_dir "your output dir"
+>python Dataset4Lerobot/rlds2lerobot/xarm6_to_lerobot_v3.py --input_dir "your input dir" --output_dir "your output dir"
 
 ## 数据集上传
 上传到对应的huggingface库,直接拖进去吧
